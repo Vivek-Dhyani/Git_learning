@@ -1,2 +1,3 @@
 # Git_learning
 This is demo repository for learning git and github
+This is for testing out my git and github and first repository
